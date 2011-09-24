@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
-    Created on : Sep 24, 2011, 5:35:25 PM
-    Author     : user
+    Created on : Sep 24, 2011, 1:44:37 PM
+    Author     : Didik
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
