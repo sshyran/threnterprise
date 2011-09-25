@@ -13,5 +13,13 @@
     </head>
     <body>
         <h1>Hello World!</h1>
+        <a href="editProfilPage.jsp">Edit Profil</a>
+        <table>
+            <tr>
+                <td>First Name</td>
+                <td>: <input type="text" name="first_name" id="first_name" /></input>
+                </td>
+            </tr>
+        </table>
     </body>
 </html>
