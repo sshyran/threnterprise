@@ -1,4 +1,3 @@
-
 import java.util.Date;
 
 /*
@@ -92,6 +91,6 @@ public class Customer {
     public void setPlace_of_birth(String place_of_birth) {
         this.place_of_birth = place_of_birth;
     }
-    
-    
+   
+   
 }
