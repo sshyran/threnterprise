@@ -1,0 +1,2 @@
+This application is an educational purpose. This is developed by Angpau ltd. Angpau team is a group that consist of six students from Bandung Institute of Technology.
+This system is developed due to fulfill the Software Project Course that is taught by Ms. Yani.
